@@ -1,2 +1,0 @@
-# Skzx-Bot
-Skyzez bot
